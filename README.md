@@ -11,7 +11,8 @@ JavaScript | TypeScript | React | Next.js | HTML | CSS
 Sleep Not Found – a pregnancy diary web application that allows users to track pregnancy week by week and write personal notes. Built with a focus on structured data flow, user-friendly UI, and responsive design.
 https://github.com/SuperCat2812/sleep-not-found
 NoteHub – a note management application with full CRUD functionality, including search and pagination. Built using React, TypeScript, and TanStack Query for efficient server-state management.
-(Add your team project here if needed) – responsive web application built in an Agile team environment, focused on collaboration, UI consistency, and clean component structure.
+
+
 🗣️ Languages
 ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
